@@ -118,3 +118,5 @@ Here's how to use the program from the command line:
 ## License
 
 This project is licensed under the [MIT License](/LICENSE). You're free to use, modify, and distribute the code according to the license terms.
+
+Update:  16 June Path corrections
